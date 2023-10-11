@@ -1,4 +1,4 @@
--- by: iElden
+-- by: iElden a garbage piece of shit 
 
 -- Remove all Babylon Modifiers
 DELETE FROM CivilizationTraits WHERE CivilizationType NOT IN ('CIVILIZATION_BARBARIAN', 'CIVILIZATION_SPECTATOR');
